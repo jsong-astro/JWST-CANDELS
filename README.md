@@ -42,6 +42,7 @@ The meaning of each column in the final catalog is as follows:
 | stellar\_mass\_profile$^{[4]}$ | A list of the stellar mass of each elliptical annulus.                                                                         |
 | sfr\_profile$^{[5]}$           | A list of the star formation of each elliptical annulus.                                                                       |
 | ssfr\_profile$^{[6]}$          | A list of the specific star formation of each elliptical annulus.                                                              |
+
 Note: 
 1. For CEERS field, we use F435W, F606W, F814W, F115W, F150W, F200W, F277W, F356W, and F444W data; for other fields, we also use additional F090W data.
 2. The concentric elliptical annuls are created with a radial step of 0.2Re_1um, extending out to 5Re_1um.
