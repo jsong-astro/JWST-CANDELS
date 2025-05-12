@@ -18,7 +18,7 @@ The meaning of each column in the final catalog is as follows:
 | id                             | Sequential number identifier, consistent with that in the photometric catalog provided by the DJA team                         |
 | ra                             | R.A. expressed in decimal degrees, consistent with that in the photometric catalog provided by the DJA team                    |
 | dec                            | decl. expressed in decimal degrees, consistent with that in the photometric catalog provided by the DJA team                   |
-| flux\_[band]^1                 | Total flux of the corresponding band from the photometric catalog provided by the DJA team in unit of mJy                      |
+| flux\_[band]$^{[1]}$           | Total flux of the corresponding band from the photometric catalog provided by the DJA team in unit of mJy                      |
 | flux\_err\_[band]              | Flux error of the corresponding band from the photometric catalog provided by the DJA team in unit of mJy                      |
 | redshift                       | Redshift from the DJA team's redshift catalog. When available, $z_{\rm spec}$ are used; otherwise, $z_{\rm phot}$ are adopted. |
 | stellar_mass                   | Stellar mass, which corresponds to $\log(M_{\ast}/M_{\odot})$                                                                  |
